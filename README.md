@@ -1,3 +1,3 @@
 This repository contains multiple machine learning projects developed for various purposes. Each project is contained within its own subdirectory.
 
-1. Flight Delay Prediction(./FlightDelay/)
+1. Flight Delay Prediction
